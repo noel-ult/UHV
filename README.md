@@ -1,5 +1,10 @@
 # 🏘️ Smart Rural Issue Management System
 
+<!-- documentation-navigation -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Contributing](CONTRIBUTING.md)
+<!-- /documentation-navigation -->
+
+
 A modern, full-stack web application for transparent governance and community issue management in rural panchayats. Built for Velookara Panchayat, Kadupaserry, Thrissur.
 
 ## ✨ Features
