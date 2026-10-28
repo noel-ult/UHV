@@ -1,7 +1,6 @@
 # UHV source reference
 
-
-Source reviewed: [`32c659e742f3`](https://github.com/noel-ult/UHV/commit/32c659e742f3a930c2fc15a6dcb83dc8be4f61e6).
+Source reviewed: [`112c5ae038f7`](https://github.com/noel-ult/UHV/commit/112c5ae038f7262179d286ee76917eccf71fbd8c).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -87,10 +86,13 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 
 Historical plans/reports describe their own revision; use current source when they disagree.
 
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [PROJECT_STRUCTURE.md](../PROJECT_STRUCTURE.md)
 - [README.md](../README.md)
 - [TESTING_GUIDE.md](../TESTING_GUIDE.md)
 - [backend/README.md](../backend/README.md)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
