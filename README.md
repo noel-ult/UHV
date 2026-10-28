@@ -96,3 +96,7 @@ npm run lint     # TypeScript check
 ---
 
 **Made with ❤️ for transparent rural governance**
+
+<!-- developer-handbook-20261028 -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Verification and operations](docs/OPERATIONS.md)
+<!-- /developer-handbook-20261028 -->
